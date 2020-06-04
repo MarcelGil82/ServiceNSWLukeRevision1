@@ -22,3 +22,5 @@ let valueOfCar = (colour == "Red") ? "50000" : "10000"
 let name = "Jim";
 let message = (name == "Marcel") ? "Hello Me" : "Hello " + name
 console.log(message)
+
+
