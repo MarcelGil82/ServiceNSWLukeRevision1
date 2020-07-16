@@ -7,10 +7,10 @@
 // 1 Write an if statement that evaluates a boolean condition.
 // Make sure the statement evaluates as false
 
-let bool = false;
-if (bool == true) {
-    console.log("this is true")
-}
+// let bool = false;
+// if (bool == true) {
+//     console.log("this is true")
+// }
 // way it should be done for this question
 let otherBool = false;
 if(otherBool) {
